@@ -1,22 +1,9 @@
-# client
+# Shipping and Logistics Assistant
 
-> Front End of Logistics Shipping Assistant
+> Logistics Shipping Assistant
 
-## Build Setup
+## App Description
 
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+> This app will be a Shipping and Logistics Application
+> This application will allow users to create a shipment, and will allow that user to customize and ship that truck. 
+> This application will output directions and instructions for the driver, and an invoice for the user
